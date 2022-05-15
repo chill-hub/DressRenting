@@ -1,0 +1,5 @@
+A Dress rent website from our marketplace.
+
+PROJECT DESCRIPTION
+
+The dress rent project is going to be solely implemented for customers and web administrator. The main functionality of the project is to show dresses and daily beauty accessories to the customer and also to let customer to post their own dresses and accessories. For that, they need to be registered customer of the system. And after login user can post the ads. User can purchase the product from different categories. And the purchase will be made via a secure process. Initially we are adding Bkash support and few mobile banking and we will add all the basic payment system for payments. The administrator must have to register and sign up through special permission to access all modules available to the web. Administrator can verify the authentication of the users and products before serving to the system.
